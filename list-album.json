@@ -1,0 +1,72 @@
+[
+	{
+		"img": "thriller.webp",
+		"name": "Thriller",
+		"artist": "Michael Jackson",
+		"release": "1982",
+		"nCopiesSold": "oltre 100 milioni"
+	},
+	{
+		"img": "back-in-black.webp",
+		"name": "Back in Black",
+		"artist": "Ac/Dc",
+		"release": "1980",
+		"nCopiesSold": "52 milioni"
+	},
+	{
+		"img": "the-dark-side-of-the-moon.webp",
+		"name": "The Dark Side of the Moon",
+		"artist": "Pink Floyd",
+		"release": "1973",
+		"nCopiesSold": "50 milioni"
+	},
+	{
+		"img": "bat-out-of-hell.webp",
+		"name": "Bat Out of Hell",
+		"artist": "Meat Loaf",
+		"release": "1977",
+		"nCopiesSold": "45 milioni"
+	},
+	{
+		"img": "bad.webp",
+		"name": "Bad",
+		"artist": "Michael Jackson",
+		"release": "1987",
+		"nCopiesSold": "43 milioni"
+	},
+	{
+		"img": "come-on-over.webp",
+		"name": "Come on Over",
+		"artist": "Shania Twain",
+		"release": "1997",
+		"nCopiesSold": "oltre 40 milioni"
+	},
+	{
+		"img": "led-zeppelin-IV.webp",
+		"name": "Led Zeppelin IV",
+		"artist": "Led Zeppelin",
+		"release": "1971",
+		"nCopiesSold": "37 milioni"
+	},
+	{
+		"img": "appetite-for-destruction.webp",
+		"name": "Appetite for Destruction",
+		"artist": "Guns N’Roses",
+		"release": "1987",
+		"nCopiesSold": "36 milioni"
+	},
+	{
+		"img": "daydream.webp",
+		"name": "Daydream",
+		"artist": " Mariah Carey",
+		"release": "1995",
+		"nCopiesSold": "35 milioni di copie"
+	},
+	{
+		"img": "millennium.webp",
+		"name": "Millennium",
+		"artist": "Backstreet Boys",
+		"release": "1999",
+		"nCopiesSold": "30 milioni"
+	}
+]

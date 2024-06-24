@@ -1,0 +1,35 @@
+.content {
+	height: 100%;
+	padding: 10px;
+	border: 2px solid rgba(255, 255, 255, 0.6);
+	border-radius: 0.375rem;
+	position: relative;
+}
+
+.img {
+	margin-bottom: 20px;
+	cursor: pointer;
+}
+
+.info {
+	text-align: center;
+	.name {
+		margin-bottom: 10px;
+	}
+	.artist {
+		font-size: 16px;
+		margin-bottom: 6px;
+	}
+	.release {
+		margin-bottom: 6px;
+		font-size: 18px;
+		font-weight: bold;
+	}
+	.position {
+		font-size: 22px;
+		font-weight: bold;
+		position: absolute;
+		bottom: 0;
+		left: 10px;
+	}
+}
